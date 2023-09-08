@@ -47,7 +47,7 @@ Bookmarks-Keeper is built using the following technologies:
 - **Local Storage**: HTML5 Local Storage is used to store and persist bookmarks between sessions, allowing users to access their saved bookmarks even after closing the browser.
 
 - **Netlify**: The web application is hosted and deployed using Netlify, providing a platform for easy accessibility via the provided link.
-
-- - **GitHub**: The codebase is hosted and shared on GitHub. 
+  
+- **GitHub**: The codebase is hosted and shared on GitHub. 
 
 These technologies work together to create a user-friendly and efficient bookmark management application that simplifies the organization of favorite websites.
