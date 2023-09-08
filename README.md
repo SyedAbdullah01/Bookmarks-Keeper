@@ -7,7 +7,7 @@ Bookmarks-Keeper is a web-based application that simplifies the management of yo
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Features](#features)
-- [Technologies Used](technologies-used)
+- [Technologies Used](#technologies=used)
 
 ## Getting Started
 
